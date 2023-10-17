@@ -5,7 +5,7 @@
 - Differentiate between tag selectors and class selectors.
 
 
-## Table of Contents
+
 - [Key Concepts](#key-concepts)
   - [Class Attributes](#class-attributes)
   - [CSS Specificity](#css-specificity)
